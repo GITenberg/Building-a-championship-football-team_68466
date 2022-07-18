@@ -5,12 +5,17 @@ contributor:
     agent_name: Gregory, Lloyd
     gutenberg_agent_id: '54785'
     url: http://www.gutenberg.org/2009/agents/54785
+covers:
+- cover_type: archival
+  image_path: 68466-h/images/cover.jpg
 creator:
   author:
     agent_name: Bryant, Paul W.
     gutenberg_agent_id: '54784'
     url: http://www.gutenberg.org/2009/agents/54784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68466#Building-a-championship-football-team
 gutenberg_issued: '2022-07-06'
 identifiers:
   gutenberg: '68466'
